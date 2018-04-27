@@ -3,7 +3,7 @@ A list of Triton Pools
 
 If you have a pool that you want to add, submit a pull request.
 
-##Pools
+Pools
 
 http://pool.tritonproject.org  
 http://triton.fatpanda.club/  
